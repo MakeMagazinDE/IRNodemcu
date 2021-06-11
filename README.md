@@ -10,7 +10,7 @@ Druckdateien für den IR-Sender/Empfänger
 
 Der IR-Sensor wird mit 3mm-Schrauben auf dem Gehäuse befestigt.
 
-![Picture](https://github.com/heise/Internetradio/blob/master/radio.png) 
+![Picture](https://github.com/MakeMagazinDE/IRNodemcu/blob/main/bild08.jpg) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/21 ab Seite 90](https://www.heise.de/select/make/2021/3/2104813271049490393)** zu lesen. 
 
